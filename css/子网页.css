@@ -1,0 +1,78 @@
+.memu {
+    position: fixed;
+	border-color: black;
+	border-width:4px;
+	border-style: solid;
+	margin-left: 75%;
+	margin-right: 1px;
+}
+.mulu{
+	background-color: beige;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-size: cover;
+margin-left: 5%;
+}
+nav ul {
+    list-style: disc;
+   }
+nav ul li {
+	margin-left: 30px;
+	font-size: 20px;}
+nav ul li a {
+	text-decoration: none;
+	color: #4c4c4c;
+	font-weight: bold;}
+.highlight:hover{
+	background-color: yellow; 
+	color: chocolate;}
+h1{font-size: 100px;
+color: darkblue;
+background-color: #ffaaff;
+	}
+h2{background-color: aqua; color: red;font-weight: 900;
+	font-family: SThupo;
+	font-weight: 500;
+	font-size:60px;
+	margin-left: 10px;
+	}
+h3{
+	font-size: 40px}
+.z{
+	position: relative;}
+.float-l{
+	margin-left: 60px;
+	float: left;
+	width: 600px;
+	height: 500px;}
+.float-r{
+	margin-right: 18%;
+	float: right;
+	width: 500px;
+	height: 460px;}
+.d1{
+border-color: black;
+border-width: 0.125rem;
+border-style: solid;padding: 20px;
+	background-color: #fefedd;
+	width: 1500px;
+	height: 660px;}
+p{  
+	font-size: 35px;  
+	text-indent: 2em;
+	font-family: '微软雅黑';
+	font-style: italic;
+	font-weight: normal;}  
+img{
+	width: 500px;
+	height: 460px;}
+footer {
+    background-color: #bab19b;
+    color: #222222;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+	margin-top: 20px;
+    width: 100%;
+}

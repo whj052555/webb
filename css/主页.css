@@ -1,0 +1,120 @@
+header {
+    background-color: burlywood;
+    padding: 10px 0;
+    text-align: center;
+}
+.d1{width:70%; 
+margin-bottom: 30px;}
+p{font-size: 28px;
+text-indent: 2em;font-family: '微软雅黑'}
+.memu {
+    position: fixed;
+	border-color: black;
+	border-width:4px;
+	border-style: solid;
+	margin-left: 75%;
+	margin-right: 1px;
+}
+.mulu{
+	background-color: beige;
+}
+.highlight:hover {
+    background-color: yellow;
+    color: chocolate;
+    text-decoration: underline;
+}
+#content {
+    font-size: 20%
+}
+.inline-block{
+	display: inline-block;
+    margin-right: 10px;
+	width: 333px;
+	}
+
+h1 {
+    color: black;
+    font-weight: bolder;
+    font-family: STXinwei;
+    font-size: 100px;
+}
+h2 {font-size: 50px;
+    color: #58711f;
+	background-color: cyan;
+	font-family: STXingkai;
+}
+h3{
+	font-size: 50px;
+}
+h4{font-style: italic;
+	background-color: chartreuse;
+	font-size: 40px;
+}
+.z {
+    position: relative;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-size: cover;
+	margin-left: 5%;
+}
+.
+.logo img {
+    width: 100px;
+    height: auto;
+}
+nav ul {
+    list-style: disc;
+   }
+nav ul li {
+	margin-left: 30px;
+	font-size: 20px;}
+nav ul li a {
+    text-decoration: none;
+    color: #4c4c4c;
+    font-weight: bold;
+}
+.content {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #bab19b;
+    color: #222222;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+	margin-top: 20px;
+    width: 100%;
+}
+form label {
+    display: block;
+    margin-top: 10px;
+}
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+form button {
+    padding: 10px 20px;
+    background-color: #56d8d8;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+form button:hover {
+    background-color: #a553a1;
+}.float-l{
+	border: 10px;
+	float: left;
+	width: 500px;
+}
+.float-r{
+	border: 10px;
+	margin-right: 20%;
+	float: right;
+	width: 500px;
+	}
